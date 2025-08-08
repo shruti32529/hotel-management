@@ -8,7 +8,7 @@ Overview:
 This project is a **full-stack hotel management system** designed to manage hotel operations like **user management**, **room bookings**, and **dashboard analytics**. The backend is powered by **Node.js** and **Express.js**, with **MongoDB** for database storage and **EJS** as the templating engine for rendering dynamic web pages.
 The system ensures secure, efficient, and scalable management of hotel data through APIs and middleware, while also providing a functional and interactive UI for admins.
 
-a
+
 
 ### **Technologies Used**
 
